@@ -55,7 +55,7 @@ Instead of immediately providing the complete solution, the application encourag
 
 ### 🌐 Application
 
-👉 **https://clarifai.ai.studio**
+👉 **https://simplifai.ai.studio/**
 
 ### 💻 GitHub Repository
 
