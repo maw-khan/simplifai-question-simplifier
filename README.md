@@ -24,7 +24,6 @@ An AI-powered educational web application that helps students understand difficu
 - [AI System Prompt](#-ai-system-prompt)
 - [Tech Stack](#-tech-stack)
 - [Application Screens](#-application-screens)
-- [Project Structure](#-project-structure)
 - [Installation](#-installation)
 - [Future Improvements](#-future-improvements)
 - [Learning Outcomes](#-learning-outcomes)
@@ -148,39 +147,7 @@ Display:
 
 # 🏗️ System Architecture
 
-```text
-                 ┌────────────────────┐
-                 │      Student       │
-                 └─────────┬──────────┘
-                           │
-                           ▼
-              Enter Academic Question
-                           │
-                           ▼
-            ┌──────────────────────────┐
-            │     ClarifAI Frontend    │
-            │  (Google AI Studio App)  │
-            └──────────┬───────────────┘
-                       │
-                       ▼
-          Prompt Construction & Validation
-                       │
-                       ▼
-              Google Gemini AI Model
-                       │
-                       ▼
-         AI Generates Structured Response
-                       │
-      ┌────────────────┼────────────────┐
-      ▼                ▼                ▼
- Simplified      Explanation      Key Concepts
-  Question                              │
-                                        ▼
-                                Helpful Hint
-                       │
-                       ▼
-           Display Results to the User
-```
+images/architecture.png
 
 ---
 
@@ -243,7 +210,7 @@ Rules:
 | **AI Model** | Google Gemini |
 | **Programming** | AI-Assisted (Vibe Coding) |
 | **Version Control** | Git & GitHub |
-| **Deployment** | Vercel |
+| **Deployment** | AI Studio |
 
 ---
 
@@ -258,7 +225,7 @@ Introduces the application and explains its purpose.
 **Screenshot**
 
 ```
-screenshots/home.png
+images/home.png
 ```
 
 ---
@@ -270,7 +237,7 @@ Allows users to enter an academic question and submit it for AI processing.
 **Screenshot**
 
 ```
-screenshots/simplify.png
+images/simplify.png
 ```
 
 ---
@@ -292,7 +259,7 @@ Also provides:
 **Screenshot**
 
 ```
-screenshots/results.png
+images/results.png
 ```
 
 ---
@@ -308,26 +275,8 @@ Provides information about:
 **Screenshot**
 
 ```
-screenshots/about.png
+images/about.png
 ```
-
----
-
-# 📁 Project Structure
-
-```text
-ClarifAI
-│
-├── src/
-├── components/
-├── pages/
-├── assets/
-├── public/
-├── README.md
-└── package.json
-```
-
-> **Note:** The project structure may vary slightly depending on the exported Google AI Studio project.
 
 ---
 
@@ -405,7 +354,7 @@ This project demonstrates:
 
 **Muhammad Ali Waris Khan**
 
-Final Project for the **AI Application Development Course**
+Final Project for the ** ACT-AI Course**
 
 ---
 
@@ -423,7 +372,7 @@ Special thanks to:
 - **Google AI Studio** for AI-assisted application development
 - **Google Gemini** for powering the intelligent question simplification feature
 - **GitHub** for version control and source code hosting
-- **Vercel** for application deployment
+- **Google AI Studio** for application deployment
 
 ---
 
