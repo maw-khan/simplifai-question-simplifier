@@ -1,3 +1,28 @@
+# ClarifAI – AI-Powered Question Simplifier
+
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![AI](https://img.shields.io/badge/AI-Google%20Gemini-blue)
+![Built With](https://img.shields.io/badge/Built%20With-Google%20AI%20Studio-orange)
+![Design](https://img.shields.io/badge/Designed%20With-Google%20Stitch-purple)
+![License](https://img.shields.io/badge/License-Educational-lightgrey)
+
+## Table of Contents
+
+- Overview
+- Live Demo
+- Problem Statement
+- Solution
+- Features
+- Application Workflow
+- AI Feature
+- AI Prompt
+- Tech Stack
+- Screenshots
+- Installation
+- Future Improvements
+- Learning Outcomes
+- Developer
+- License
 ClarifAI – AI-Powered Question Simplifier
 Overview
 ClarifAI is an AI-powered educational web application designed to help students better understand difficult study questions before attempting to solve them.
@@ -113,6 +138,21 @@ Helpful Hint
 It also includes options to copy the generated response or simplify another question.
 About
 Provides information about the application, developer, and project details.
+
+Tech Stack
+Category
+Technology
+Design
+Google Stitch
+Development
+Google AI Studio
+AI Model
+Google Gemini
+Version Control
+Git & GitHub
+Deployment
+Vercel
+
 Screenshots
 Home Screen
 (Insert screenshot here)
