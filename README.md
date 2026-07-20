@@ -147,7 +147,7 @@ Display:
 
 # 🏗️ System Architecture
 
-images/architecture.png
+![Architecture](images/architecture.png)
 
 ---
 
@@ -224,9 +224,8 @@ Introduces the application and explains its purpose.
 
 **Screenshot**
 
-```
-images/home.png
-```
+![Home](images/home.png)
+
 
 ---
 
@@ -236,9 +235,7 @@ Allows users to enter an academic question and submit it for AI processing.
 
 **Screenshot**
 
-```
-images/simplify.png
-```
+![SimplifAI](images/simplifai.png)
 
 ---
 
@@ -258,9 +255,7 @@ Also provides:
 
 **Screenshot**
 
-```
-images/results.png
-```
+![Result](images/Result.png)
 
 ---
 
@@ -274,9 +269,7 @@ Provides information about:
 
 **Screenshot**
 
-```
-images/about.png
-```
+![About](images/about.png)
 
 ---
 
