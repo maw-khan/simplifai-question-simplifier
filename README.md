@@ -1,4 +1,4 @@
-# ClarifAI – AI-Powered Question Simplifier
+# SimplifAI – AI-Powered Question Simplifier
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![AI](https://img.shields.io/badge/AI-Google%20Gemini-blue)
