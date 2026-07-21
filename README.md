@@ -55,7 +55,7 @@ Instead of immediately providing the complete solution, the application encourag
 ### 🌐 Application
 
 👉 **https://simplifai.ai.studio/**
-👉 **simplifai.up.railway.app**
+👉 **https://simplifai.up.railway.app/**
 
 
 ### 💻 GitHub Repository
