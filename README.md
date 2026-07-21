@@ -55,6 +55,8 @@ Instead of immediately providing the complete solution, the application encourag
 ### 🌐 Application
 
 👉 **https://simplifai.ai.studio/**
+👉 **simplifai.up.railway.app**
+
 
 ### 💻 GitHub Repository
 
@@ -210,7 +212,7 @@ Rules:
 | **AI Model** | Google Gemini |
 | **Programming** | AI-Assisted (Vibe Coding) |
 | **Version Control** | Git & GitHub |
-| **Deployment** | AI Studio |
+| **Deployment** | AI Studio/Railway |
 
 ---
 
@@ -365,7 +367,7 @@ Special thanks to:
 - **Google AI Studio** for AI-assisted application development
 - **Google Gemini** for powering the intelligent question simplification feature
 - **GitHub** for version control and source code hosting
-- **Google AI Studio** for application deployment
+- **Google AI Studio** and **Railway** for application deployment
 
 ---
 
