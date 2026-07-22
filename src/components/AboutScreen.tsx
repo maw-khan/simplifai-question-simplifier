@@ -1,6 +1,6 @@
 import { motion } from "motion/react";
 import { Brain, EyeOff, CheckCircle2, Zap, Sparkles, Code, Github, Globe } from "lucide-react";
-import developerImg from "../assets/images/developer_exact_photo_1784415850834.jpg";
+import developerImg from "../assets/images/developer_image.jpg";
 
 export default function AboutScreen() {
   return (
